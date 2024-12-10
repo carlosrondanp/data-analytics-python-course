@@ -6,3 +6,4 @@ mplcursors==0.6
 bokeh==3.6.2
 ipywidgets==8.1.5
 ipympl==0.9.4
+cutecharts==1.2.0
